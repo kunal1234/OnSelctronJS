@@ -13,7 +13,7 @@ function createWindow () {
   })
 
   // and load the index.html of the app.
-  mainWindow.loadURL('https://gapi-notification.herokuapp.com/', {userAgent: 'Chrome'});
+  mainWindow.loadURL('https://sotexting.herokuapp.com/', {userAgent: 'Chrome'});
   //mainWindow.loadFile('index.html')
 
   // Open the DevTools.
